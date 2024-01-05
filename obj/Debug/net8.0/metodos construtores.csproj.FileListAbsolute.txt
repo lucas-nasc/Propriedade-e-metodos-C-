@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\metodos construtores\bin\Debug\net8.0\metodos construtores.exe
+C:\Users\User\Desktop\metodos construtores\bin\Debug\net8.0\metodos construtores.deps.json
+C:\Users\User\Desktop\metodos construtores\bin\Debug\net8.0\metodos construtores.runtimeconfig.json
+C:\Users\User\Desktop\metodos construtores\bin\Debug\net8.0\metodos construtores.dll
+C:\Users\User\Desktop\metodos construtores\bin\Debug\net8.0\metodos construtores.pdb
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.AssemblyInfo.cs
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.dll
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\refint\metodos construtores.dll
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.pdb
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\metodos construtores.genruntimeconfig.cache
+C:\Users\User\Desktop\metodos construtores\obj\Debug\net8.0\ref\metodos construtores.dll
